@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DogeConverter</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint1">Currency1</string>
+    <string name="hint2">Currency2</string>
+    <string name="dollarRadio">$</string>
+    <string name="bitRadio">BTC</string>
+    <string name="dogeRadio">doge</string>
+    <string name="fromText">Currency 1</string>
+    <string name="toText">Currency 2</string>
+    <string name="button">Refresh Rates</string>
+    <string name="updated"></string>
+    <string name="about">about</string>
+
+</resources>

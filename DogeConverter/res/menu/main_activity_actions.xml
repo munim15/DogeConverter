@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- Search, should appear as action button -->
+    <item android:id="@+id/action_about"
+          android:icon="@drawable/ic_action_about2"
+          android:title="@string/about"
+          android:showAsAction="ifRoom" />
+    <item android:id="@+id/action_color1"
+          android:icon="@drawable/white2"
+          android:title="Color1"
+          android:showAsAction="ifRoom" />
+    <item android:id="@+id/action_color2"
+          android:icon="@drawable/blue2"
+          android:title="Color2"
+          android:showAsAction="ifRoom" />
+    <item android:id="@+id/action_color3"
+          android:icon="@drawable/red2"
+          android:title="Color3"
+          android:showAsAction="ifRoom" />
+</menu>
